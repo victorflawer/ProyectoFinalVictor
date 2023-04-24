@@ -1,0 +1,51 @@
+header{background-color: aquamarine;}
+
+
+/*
+Titulos
+*/ 
+.TituloInicio {background-color: rgb(206, 9, 52);}
+
+
+/*Div con textos*/
+
+
+
+p{
+    color: blueviolet;
+    font-size: larger;
+}
+
+/* ID */
+
+#h1p{color: coral;}
+
+#h2p{color: cornflowerblue;}
+
+#h3p{color: crimson;}
+
+#h4p{color: darkcyan;}
+
+/* fuentes */
+
+h1{font-family: 'Amatic SC', cursive;
+font-size: 200%;text-align: center;}
+h2{font-family: 'Amatic SC', cursive;
+font-size: 400%;}
+
+
+p{font-family: 'Lato', sans-serif; text-align: center;}
+
+/*CAJAS*/
+
+.Caja1{background-color: rgb(209, 173, 129);}
+
+.Caja2{background-color: #ff4e00;
+    background-image: linear-gradient(315deg, #ff4e00 0%, #ec9f05 74%);
+    }
+
+.Caja3{background-color: #e899dc;
+    background-image: linear-gradient(315deg, #e899dc 0%, #d387ab 74%);}
+
+.Caja4{background-color: gold;}
+
